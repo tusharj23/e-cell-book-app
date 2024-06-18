@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/e-cell-book-app/static/css/main.e6c13ad2.css",
+    "main.js": "/e-cell-book-app/static/js/main.c5462981.js",
+    "static/js/453.56c372aa.chunk.js": "/e-cell-book-app/static/js/453.56c372aa.chunk.js",
+    "index.html": "/e-cell-book-app/index.html",
+    "main.e6c13ad2.css.map": "/e-cell-book-app/static/css/main.e6c13ad2.css.map",
+    "main.c5462981.js.map": "/e-cell-book-app/static/js/main.c5462981.js.map",
+    "453.56c372aa.chunk.js.map": "/e-cell-book-app/static/js/453.56c372aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c5462981.js"
+  ]
+}
